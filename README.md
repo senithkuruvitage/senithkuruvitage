@@ -40,7 +40,7 @@
 
 <p align="center">
 	<a href="https://leetcode.com/u/Senith_pmk/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://www.hackerrank.com/profile/senith_p_m_kuru1"><img src="chrome://favicon2/?size=24&scaleFactor=1x&showFallbackMonogram=&pageUrl=https%3A%2F%2Fwww.hackerrank.com%2Fprofile%2Fsenith_p_m_kuru1" alt="HackerRank" width = 60px/></a>
+	<a href="https://www.hackerrank.com/profile/senith_p_m_kuru1"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" width = 60px/></a>
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
