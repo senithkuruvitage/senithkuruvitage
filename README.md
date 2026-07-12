@@ -17,7 +17,7 @@
 - :student: I’m currently learning `C` and `Python`.
 - :nerd_face: Always `learning new things`.
 - :thinking:  Interested in programming `fundamentals`, `problem solving` and `practical projects`
-- :LK: Based_in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).
+- :SriLanka: Based_in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).
 <br>
 
 
