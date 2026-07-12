@@ -25,7 +25,7 @@
 
 <p align="center">
 	<a href="https://leetcode.com/u/Senith_pmk/"><img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" width="45" height="45"></a>&emsp;
-	<a href="https://projecteuler.net/archives"><img src="https://projecteuler.net/profile/pic_logo.png" alt="Project Euler" width="45" height="45"></a>&emsp;
+	<a href="https://projecteuler.net/archives"><img src="https://projecteuler.net/favicon.ico" alt="Project Euler" width="45" height="45"></a>&emsp;
 	<a href="https://www.hackerrank.com/profile/senith_p_m_kuru1"><img src="https://cdn.simpleicons.org/hackerrank" alt="HackerRank" width="45" height="45"></a>
 </p>
 
@@ -57,7 +57,7 @@
 	<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="45" height="45"></a>&emsp;
 	<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="45" height="45"></a>&emsp;
 	<a href="#"><img src="https://octave.org/img/octave-logo.svg" alt="GNU Octave" width="45" height="45"></a>&emsp;
-	<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-plain.svg" alt="Arduino" width="45" height="45"></a>&emsp;
+	<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="45" height="45"></a>&emsp;
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
