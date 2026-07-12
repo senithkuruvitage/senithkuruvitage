@@ -67,6 +67,8 @@
   &emsp;
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"></a>
   &emsp;
+	<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Ubuntu-Dark.svg" alt="Linux" width="45" height="45"></a>
+  &emsp;
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="45" height="45"></a>
   &emsp;
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="45" height="45"></a>
