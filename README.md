@@ -19,6 +19,11 @@
 - :nerd_face: Always `learning new things`.
 - :thinking:  Interested in programming `fundamentals`, `problem solving` and `practical projects`
 - Based_in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).
+- 🏫 B.Sc(Hons) in Computer Science Undergraduate at SLIIT.
+- 👨‍💻 I'm currently learning C and Python.
+- 🤓 Always learning new things.
+- 🤔 Interested in programming fundamentals, problem solving and practical projects.
+- 📍 Based in Sri Lanka.
 <br>
 
 
