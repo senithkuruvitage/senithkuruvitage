@@ -69,6 +69,7 @@
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="45" height="45"></a>
   &emsp;
 </p>
+<br>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasRoudra&amp;layout=compact&amp;bg_color=0,73FA79,73FDFF,7A81FF&amp;theme=graywhite&amp;langs_count=10&amp;exclude_repo=kasweb">
