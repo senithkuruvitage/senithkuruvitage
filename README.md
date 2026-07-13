@@ -73,15 +73,7 @@
 <br>
 
 ---
-
-<!-- GitHub Stats -->
-<p align="center">
-  <a href="https://github.com/senithkuruvitage">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=senithkuruvitage&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senithkuruvitage&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
+	
 ## 🐍 A Snake Eating my Contributions Graph
 
 	
