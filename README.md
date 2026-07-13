@@ -29,38 +29,12 @@
 	<a href="https://www.hackerrank.com/profile/senith_p_m_kuru1"><img src="https://cdn.simpleicons.org/hackerrank" alt="HackerRank" width="45" height="45"></a>&emsp;
 </p>
 
-<summary><h2 style="display: inline-block">Technologies That I Know</h2></summary>
-
-### Programming languages -- Software & Tools -- IDEs -- Operating Systems
+## Technologies That I Know
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=c "/></a>&emsp;
-</p>
- 
-<p align="center">
-  &emsp;
-	<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Octave-Dark.svg" width="45" height="45"></a>&emsp;
-	<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Git.svg" alt="Git" width="45" height="45"></a>&emsp;
-</p>
- 
-<p align="center">
-  &emsp;
-	<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="45" height="45"></a>&emsp;
-	<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="45" height="45"></a>&emsp;
-	<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Arduino.svg" alt="Arduino" width="45" height="45"></a>&emsp;
-	<a href="#"><img src="https://cdn.buymeacoffee.com/uploads/profile_pictures/2023/10/6qnyGzNws5vuyLUe.png@300w_0e.webp" alt="Cirkit Designer" width="45" height="45"></a>&emsp;
-</p>
- 
-<p align="center">
-  &emsp;
-	<a href="#"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="45" height="45"/></a>
-  &emsp;
-	<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Ubuntu-Dark.svg" alt="Linux" width="45" height="45"></a>
-  &emsp;
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="45" height="45"></a>
-  &emsp;
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="45" height="45"></a>
-  &emsp;
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,c,github,linux,md,py,vscode,Arduino,gnuOctave;perline=14">
+  </a>
 </p>
 
 <br>
