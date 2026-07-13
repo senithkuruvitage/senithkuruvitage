@@ -12,7 +12,7 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <br><br>
-
+<script src="https://readmecodegen.com/view-tracker.js" data-user="user_mrijpoku_h35x1h"></script>
 - :school: B.Sc(Hons) in Computer Science Undergraduate at SLIIT.
 - :student: I’m currently learning `C` and `Python`.
 - :nerd_face: Always `learning new things`.
