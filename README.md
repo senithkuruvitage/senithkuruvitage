@@ -43,8 +43,6 @@
 <p align="center">
   &emsp;
 	<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Octave-Dark.svg" width="45" height="45"></a>&emsp;
-	<a href="#"><img src="https://www.tinkercad.com/favicon.ico" alt="Tinkercad" width="45" height="45"></a>&emsp;
-	<a href="#"><img src="https://cdn.buymeacoffee.com/uploads/profile_pictures/2023/10/6qnyGzNws5vuyLUe.png@300w_0e.webp" alt="Cirkit Designer" width="45" height="45"></a>&emsp;
 	<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Git.svg" alt="Git" width="45" height="45"></a>&emsp;
 </p>
 
@@ -55,6 +53,7 @@
 	<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="45" height="45"></a>&emsp;
 	<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="45" height="45"></a>&emsp;
 	<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Arduino.svg" alt="Arduino" width="45" height="45"></a>&emsp;
+	<a href="#"><img src="https://cdn.buymeacoffee.com/uploads/profile_pictures/2023/10/6qnyGzNws5vuyLUe.png@300w_0e.webp" alt="Cirkit Designer" width="45" height="45"></a>&emsp;
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
