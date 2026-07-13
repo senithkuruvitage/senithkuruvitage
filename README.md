@@ -73,6 +73,32 @@
 <br>
 
 ---
+
+<!-- GitHub Stats + Top Languages -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=senithkuruvitage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senithkuruvitage&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=senithkuruvitage&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=senithkuruvitage&theme=tokyo-night&hide_border=true" />
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=senithkuruvitage&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
+
+<!-- GitHub Metrics -->
+<p align="center">
+  <img src="https://metrics.lecoq.io/senithkuruvitage?template=classic&config.timezone=Asia/Colombo" />
+</p>
 	
 ## 🐍 A Snake Eating my Contributions Graph
 
