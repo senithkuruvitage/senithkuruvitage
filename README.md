@@ -75,7 +75,7 @@
 ---
 
 <p align = "center">
-	<img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=senithkuruvitage&theme=radical" alt = "Genaral Stats"/>&emsp;
+	<img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=senithkuruvitage&theme=radical" alt = "Genaral Stats"/>
 	<img src = "https://github-readme-streak-stats.herokuapp.com?user=senithkuruvitage&theme=radical" alt = "Genaral Stats"/>
 </p>
 
