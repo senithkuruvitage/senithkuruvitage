@@ -81,8 +81,6 @@
 	<img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg" alt = "Snake Game"/>
 </p>
 
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=senithkuruvitage&theme=algolia&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=senithkuruvitage&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </p>
