@@ -73,6 +73,11 @@
 <br>
 
 ---
+
+<p align = "center">
+	<img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=senithkuruvitage&theme=radical" alt = "Genaral Stats"/>
+</p>
+
 	
 ## 🐍 A Snake Eating my Contributions Graph
 
