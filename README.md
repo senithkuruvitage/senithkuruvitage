@@ -84,5 +84,5 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15"alt="GitHub Trophies"/>
+  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub" alt="GitHub Trophies"/></a>
 </p>
