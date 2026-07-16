@@ -35,7 +35,6 @@
 
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=c "alt="C" width="45" height="45"/></a>&emsp;
-	<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"></a>&emsp;
 </p>
 
 
