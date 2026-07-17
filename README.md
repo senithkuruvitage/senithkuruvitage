@@ -3,7 +3,7 @@
 </div>
 
  <p align="center">
-	 <a href="#"><img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000003fdc71fbbd26a9b98ca03f88&ts=495637&p=fs&cid=1&sig=4a7e8137a26c53d8df73f3a0c0d158d7c7ef98dde5f8783580941231657811cb&v=0&descAlign=71&descAlignY=59"></a>
+	 <a href="#"><img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000003fdc71fbbd26a9b98ca03f88&ts=495637&p=fs&cid=1&sig=4a7e8137a26c53d8df73f3a0c0d158d7c7ef98dde5f8783580941231657811cb&v=0"></a>
  </p>
  
 <p align="center">
