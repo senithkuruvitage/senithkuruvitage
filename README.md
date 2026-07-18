@@ -10,7 +10,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://v1.pinimg.com/videos/mc/expMp4/c4/95/80/c49580d437524719ce283f453819e5ce_t1.mp4" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <br><br>
 
