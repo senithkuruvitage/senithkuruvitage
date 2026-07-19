@@ -76,10 +76,13 @@
 
 <p align = "center">
 	<img src = "https://github-readme-streak-stats.herokuapp.com?user=senithkuruvitage&theme=radical&hide_border=true" alt = "Genaral Stats"/>
+</p>
+<p align="center">
   <img
     width="580"
     src="https://github-readme-stats.vercel.app/api?username=senithkuruvitage&custom_title=Senith%20Kuruvitage%27s%20GitHub%20Stats&include_all_commits=true&count_private=true&show_icons=false&theme=dark&border_radius=6"
-    alt="Senith Kuruvitage's GitHub Stats"/>
+    alt="Senith Kuruvitage's GitHub Stats"
+  />
 </p>
 	
 ## 🐍 A Snake Eating my Contributions Graph
