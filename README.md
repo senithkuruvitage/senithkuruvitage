@@ -78,7 +78,7 @@
 	 <img 
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=senithkuruvitage&theme=dark&show_icons=false&include_all_commits=true&count_private=true"
     alt="Senith Kuruvitage's GitHub Stats"
-  />
+  />&emsp;
 	<img src = "https://github-readme-streak-stats.herokuapp.com?user=senithkuruvitage&theme=black-ice" alt = "Genaral Stats"/>
 </p>
 ## 🐍 A Snake Eating my Contributions Graph
