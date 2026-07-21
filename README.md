@@ -126,3 +126,63 @@
     <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </p>
+
+<h2 align="center">📊 GitHub Metrics</h2>
+
+<div align="center">
+  <img src="assets/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://info.flagcounter.com/SVOB"><img src="https://s01.flagcounter.com/countxl/SVOB/bg_1A1B27/txt_70A5FD/border_CCCCCC/columns_8/maxflags_12/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+</div>
+
+<div align="center">
+
+[![gitanimals](https://render.gitanimals.org/farms/senithkuruvitage)](https://gitanimals.org/)
+
+</div>
+
+<div align="center">
+  <img src="https://minimalistic-wallpaper.demolab.com/?random=1" width="30%" />
+  <img src="https://minimalistic-wallpaper.demolab.com/?random=2" width="30%" />
+  <img src="https://minimalistic-wallpaper.demolab.com/?random=3" width="30%" />
+</div>
+
+<div align="center">
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31quo7jra22vxwwgmxfsfjmh6mpy&count=5&width=400)
+
+![Spotify](https://spotifyreadme-alpha.vercel.app/)
+
+</div>
+
+<div align="center">
+
+![Views](https://count.getloli.com/@senithkuruvitage?theme=booru-jaypee)
+![Views](https://count.getloli.com/@senithkuruvitage?theme=booru-vp)
+
+</div>
+
+<div align="center">
+    <img alt="Visitor Stats" src="https://widgetbite.com/stats/senithkuruvitage"/>
+</div>
+
+<div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=007107&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+
+</div>
+<p align="center">
+	<a href="" target='_blank'><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="" target='_blank'><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png" /></a>
+	<a href=""><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
+	<a href=""><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+
+</p>
+
+[:octocat:](https://github.com/axone-protocol/)
