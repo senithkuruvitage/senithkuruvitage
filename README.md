@@ -109,7 +109,7 @@
   </a>
   &nbsp;
 	 <a href="https://github.com/senithkuruvitage">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=senithkuruvitage&theme=neon-dark&username=senithkuruvitage&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff1744&icon_color=ff6f00&text_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Senith's Stats" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=senithkuruvitage&theme=neon-dark" />
   </a>
 </p>
 
