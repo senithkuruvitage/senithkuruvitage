@@ -11,13 +11,16 @@
 <p align="center">
   <a href="https://github.com/senithkuruvitage?tab=followers">
     <img src="https://img.shields.io/github/followers/senithkuruvitage?label=FOLLOWERS&style=for-the-badge&color=000000&labelColor=dc143c&logo=github&logoColor=white" alt="Followers" />
-  </a>&nbsp;
+    </a>
+&nbsp;
   
   <a href="https://github.com/senithkuruvitage?tab=repositories">
     <img src="https://img.shields.io/github/stars/senithkuruvitage?label=TOTAL%20STARS&style=for-the-badge&color=dc143c&labelColor=000000&logo=star&logoColor=gold" alt="Stars" />
   </a>
 </p>
 
+<!-- ✦═══════════════════════════════════════════════════════════════✦ -->
+<!--                    ✍️ ANIMATED TYPING SVG                        -->
 <!-- ✦═══════════════════════════════════════════════════════════════✦ -->
 
 <p align="center">
