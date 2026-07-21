@@ -2,7 +2,7 @@
 <!--                    🔥 HEADER WAVE ANIMATION 🔥                   -->
 <!-- ✦═══════════════════════════════════════════════════════════════✦ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,25:dc143c,50:ff1744,75:b71c1c,100:000000&height=303&section=header&reversal=false&text=Senith%20Kuruvitage&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Computer%20Science%20%20Undergraduate&descSize=20&descAlign=71&descAlignY=59" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,25:dc143c,50:ff1744,75:b71c1c,100:000000&height=298&section=header&reversal=false&text=Senith%20Kuruvitage&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Computer%20Science%20%20Undergraduate&descSize=20&descAlign=71&descAlignY=59" />
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub!;Feel+free+to+explore+my+repositories"></a>
