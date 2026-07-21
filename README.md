@@ -109,7 +109,7 @@
   </a>
   &nbsp;
 	 <a href="https://github.com/senithkuruvitage">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=senithkuruvitage&theme=neon-dark" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=senithkuruvitage&theme=neon-dark&hide_border=true" />
   </a>
 </p>
 
@@ -128,6 +128,13 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=senithkuruvitage&theme=radical" width="32%" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=senithkuruvitage&theme=radical" width="32%" alt="Most Commit Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=senithkuruvitage&theme=radical&utcOffset=5.5" width="32%" alt="Productive Time" />
+	  <a href="https://github.com/senithkuruvitage">
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=senithkuruvitage&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff1744&icon_color=ff6f00&text_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Senith's Stats" />
+  </a>
+  &nbsp;
+	 <a href="https://github.com/senithkuruvitage">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=senithkuruvitage&theme=neon-dark&hide_border=true" />
+  </a>
 </p>
 
 <!-- ✦═══════════════════════════════════════════════════════════════✦ -->
