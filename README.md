@@ -109,7 +109,7 @@
   </a>
   &nbsp;
 	 <a href="https://github.com/senithkuruvitage">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=senithkuruvitage&theme=bear&hide_border=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=senithkuruvitage&theme=gruvbox_duo&hide_border=true" />
   </a>
 </p>
 
