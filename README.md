@@ -108,9 +108,32 @@
 	<img src = "https://github-readme-streak-stats.herokuapp.com?user=senithkuruvitage&theme=black-ice" alt = "Genaral Stats"/>
 </p>
 
-## 🐍 A Snake Eating my Contributions Graph
+<!-- ✦═════════════ 🌈 RAINBOW DIVIDER 🌈 ══════════════════════════✦ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-	
-<p align = "center">
-	<img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg" alt = "Snake Game"/>
+<!-- ✦═══════════════════════════════════════════════════════════════✦ -->
+<!--                    📈 METRICS SECTION                            -->
+<!-- ✦═══════════════════════════════════════════════════════════════✦ -->
+
+<h2>📊✨ Profile Summary Card ✨📊</h2>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senithkuruvitage&theme=radical" width="100%" alt="Profile Details" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=senithkuruvitage&theme=radical" width="32%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=senithkuruvitage&theme=radical" width="32%" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=senithkuruvitage&theme=radical&utcOffset=5.5" width="32%" alt="Productive Time" />
+</p>
+
+<!-- ✦═══════════════════════════════════════════════════════════════✦ -->
+<!--                    🐍 SNAKE ANIMATION                            -->
+<!-- ✦═══════════════════════════════════════════════════════════════✦ -->
+
+## 🐍 A Snake Eating my Contributions Graph
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </p>
