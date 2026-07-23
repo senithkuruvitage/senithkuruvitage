@@ -51,16 +51,16 @@
 	<a href="https://www.hackerrank.com/profile/senith_p_m_kuru1"><img src="https://cdn.simpleicons.org/hackerrank" alt="HackerRank" width="45" height="45"></a>&emsp;
 </p>
 
-## 🛠️ My Skills
+## 🖥️ My Skills
 
-###  Programming languages
+###  🔴 Programming languages
 
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=c "alt="C" width="45" height="45"/></a>&emsp;
 </p>
 
 
- ### Software & Tools
+ ### 🟠 Software & Tools
  
 <p align="center">
   &emsp;
@@ -69,7 +69,7 @@
 	<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Github-Dark.svg" alt="GitHub" width="45" height="45"></a>&emsp;
 </p>
 
- ### IDEs
+ ### 🟡 IDEs
  
 <p align="center">
   &emsp;
@@ -79,7 +79,7 @@
 	<a href="#"><img src="https://cdn.buymeacoffee.com/uploads/profile_pictures/2023/10/6qnyGzNws5vuyLUe.png@300w_0e.webp" alt="Cirkit Designer" width="45" height="45"></a>&emsp;
 </p>
 
- ### Operating Systems
+ ### 🟢 Operating Systems
  
 <p align="center">
   &emsp;
