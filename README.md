@@ -53,14 +53,14 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+###  Programming languages
 
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=c "alt="C" width="45" height="45"/></a>&emsp;
 </p>
 
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ ### Software & Tools
  
 <p align="center">
   &emsp;
@@ -69,7 +69,7 @@
 	<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Github-Dark.svg" alt="GitHub" width="45" height="45"></a>&emsp;
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+ ### IDEs
  
 <p align="center">
   &emsp;
@@ -79,7 +79,7 @@
 	<a href="#"><img src="https://cdn.buymeacoffee.com/uploads/profile_pictures/2023/10/6qnyGzNws5vuyLUe.png@300w_0e.webp" alt="Cirkit Designer" width="45" height="45"></a>&emsp;
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+ ### Operating Systems
  
 <p align="center">
   &emsp;
