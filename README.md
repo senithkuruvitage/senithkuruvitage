@@ -44,31 +44,6 @@
 - 📍 Based in [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka).
 <br>
 
-<!-- ✦═══════════════════════════════════════════════════════════════✦ -->
-<!--                    💼 WHAT I DO SECTION                          -->
-<!-- ✦═══════════════════════════════════════════════════════════════✦ -->
-
-<h2>💼✨ What I Do 🎯</h2>
-
-<table align="center" border="0">
-  <tr>
-    <td align="center" width="250">
-      <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120" alt="Problem Solving" />
-      <br><br>
-      <b>🧩 Problem Solving 🧠</b>
-      <br>
-      <sub>Turning complex challenges<br>into elegant solutions 💡</sub>
-    </td>
-    <td align="center" width="250">
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" alt="Open Source" />
-      <br><br>
-      <b>🤝 Open Source 🌍</b>
-      <br>
-      <sub>Contributing to the<br>developer community 💜</sub>
-    </td>
-  </tr>
-</table>
-
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
