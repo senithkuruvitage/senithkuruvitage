@@ -4,16 +4,24 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b71c1c,25:dc143c,50:ff1744,75:dc143c,100:b71c1c&height=303&section=header&reversal=false&text=Senith%20Kuruvitage&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Computer%20Science%20%20Undergraduate&descSize=20&descAlign=71&descAlignY=59" />
 
+
 <!-- ✦═══════════════════════════════════════════════════════════════✦ -->
-<!--                    📊 VISITOR & PROFILE BADGES                   -->
+<!--                    🌐 CONNECT SECTION                            -->
 <!-- ✦═══════════════════════════════════════════════════════════════✦ -->
 
 <p align="center">
-    <img src="https://img.shields.io/github/followers/senithkuruvitage?label=FOLLOWERS&style=for-the-badge&color=000000&labelColor=dc143c&logo=github&logoColor=white" alt="Followers" />
-&nbsp;
-    <img src="https://img.shields.io/github/stars/senithkuruvitage?label=TOTAL%20STARS&style=for-the-badge&color=dc143c&labelColor=000000&logo=star&logoColor=gold" alt="Stars" />
+  <a href="senith.p.m.kuruvitage20@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/senithpmk" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF1744?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
-
 <!-- ✦═══════════════════════════════════════════════════════════════✦ -->
 <!--                    ✍️ ANIMATED TYPING SVG                        -->
 <!-- ✦═══════════════════════════════════════════════════════════════✦ -->
