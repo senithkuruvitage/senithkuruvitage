@@ -83,7 +83,7 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="45" height="45"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" alt="Windows" width="45" height="45"></a>
   &emsp;
     <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" width="45" height="45"></a>
   &emsp;
